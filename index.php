@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Felix - FavCode Test</title>
+  <title>Bright - FavCode Test</title>
 
 	<meta name="description" content="African development through partnership">
 
@@ -163,7 +163,7 @@
                 </ul>
                 <p class="project-description ">A simple shopping list built with Vue.js and Bootstrap 4</p>
                 <a href="https://github.com/Menezy/Vue-shopping-list-app" target="_blank "
-                  class="button button-primary ">Visit Website</a>
+                  class="button button-primary ">View on Github</a>
               </div>
             </div>
           </div>
@@ -181,7 +181,7 @@
                   <li>JavaScript</li>
                 </ul>
                 <p class="project-description ">A JavaScript calculator that performs simple arithmetic</p>
-                <a href="# " target="_blank " class="button button-primary ">Visit Website</a>
+                <a href="https://codepen.io/Menezy/full/pWmeGv/" target="_blank " class="button button-primary ">View Demo</a>
               </div>
             </div>
           </div>
