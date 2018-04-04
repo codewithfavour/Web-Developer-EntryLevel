@@ -75,8 +75,7 @@
         code life can be followed up on <a href="https://github.com/menezy">github</a>
         I've been continously investing in self development and i'm ever ready to learn, build, ship and improve. I have a strong
         passion for technology and that's what has sustained me thus far no matter the challenges. I learn new Techonologies
-        at a very fast pace. I'm also a good team player with excellent commmunication skills, being able to work in a team
-        for a better and faster workflow. Every Software Developer needs industrial experience in order to hone their skills
+        at a very fast pace. I'm also a good team player with excellent commmunication skills. Every Software Developer needs industrial experience in order to hone their skills
         to a world class level by working on real life projects. I'm enthusiastic about using Technology to solve real world
         problems and i'm ever ready to be involved in building the next big thing if i'm given the opportunity.
 
