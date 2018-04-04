@@ -162,7 +162,7 @@
                   <li>Vue.js</li>
                 </ul>
                 <p class="project-description ">A simple shopping list built with Vue.js and Bootstrap 4</p>
-                <a href="http://wedler.com/ " target="_blank "
+                <a href="https://github.com/Menezy/Vue-shopping-list-app" target="_blank "
                   class="button button-primary ">Visit Website</a>
               </div>
             </div>
