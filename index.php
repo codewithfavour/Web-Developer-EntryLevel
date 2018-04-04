@@ -69,10 +69,10 @@
       <p class="intro slate" class="bounce" style="margin:0 auto;justify-content:center;">About Me</p>
     </div>
     <div id="aboutMe">
-      <p class="statement gunmetal" style="margin:0 auto">
+      <p class="statement gunmetal" style="margin:0 auto;font-size:20px;">
         I'm a frontend web developer with over One(1) year of experience in web development. I started my web design and development
         journey with New Horizons computer learning center, where i bagged an advanced diploma in web development. My everyday
-        code life can be followed up on<a href="https://github.com/menezy">github</a>
+        code life can be followed up on <a href="https://github.com/menezy">github</a>
         I've been continously investing in self development and i'm ever ready to learn, build, ship and improve. I have a strong
         passion for technology and that's what has sustained me thus far no matter the challenges. I learn new Techonologies
         at a very fast pace. I'm also a good team player with excellent commmunication skills, being able to work in a team
