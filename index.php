@@ -70,7 +70,7 @@
       <p class="intro slate" class="bounce" style="margin:0 auto;justify-content:center;">About Me</p>
     </div>
     <div class="container" id="aboutMe">
-      <p class="statement gunmetal" style="margin:0 auto;font-size:20px;text-align:justify;">
+      <p class="statement gunmetal" style="margin:0 auto;font-size:20px;text-align:left;">
         I'm a frontend web developer with over One(1) year of experience in web development. I started my web design and development
         journey with New Horizons computer learning center, where i bagged an advanced diploma in web development. My everyday
         code life can be followed up on
