@@ -1,17 +1,18 @@
 <!DOCTYPE html>
 
 <html lang="en">
+
 <head>
   <title>Bright Mene Sunday | FavCode test</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-<meta name="description" content="African development through partnership">
-<!-- Open Graph data -->
-<meta property="og:title" content="Submission for Felix - Favcode ">
-<meta property="og:type" content="article">
-<meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
-<meta property="og:description" content="African development through partnership">
+  <meta name="description" content="African development through partnership">
+  <!-- Open Graph data -->
+  <meta property="og:title" content="Submission for Felix - Favcode ">
+  <meta property="og:type" content="article">
+  <meta property="og:image" content="Felix%20-%20Favcoder_files/art.png">
+  <meta property="og:description" content="African development through partnership">
 
   <link rel="canonical" href="index.html">
   <meta property="og:url" content="index.html">
@@ -37,7 +38,7 @@
           <h4 class="cd-headline letters type" style="color:white;">
             <span>Hey, I'm Bright. I design & build</span>
             <br>
-            <span class="cd-words-wrappe">
+            <span class="cd-words-wrapper">
               <b class="is-visible">Smart user interfaces.</b>
               <b>landing pages.</b>
               <b>corporate websites.</b>
@@ -68,16 +69,18 @@
     <div id="aboutMe" class="bounce" style="justify-content:center;">
       <p class="intro slate" class="bounce" style="margin:0 auto;justify-content:center;">About Me</p>
     </div>
-    <div id="aboutMe">
-      <p class="statement gunmetal" style="margin:0 auto;font-size:20px;">
+    <div class="container" id="aboutMe">
+      <p class="statement gunmetal" style="margin:0 auto;font-size:20px;text-align:justify;">
         I'm a frontend web developer with over One(1) year of experience in web development. I started my web design and development
         journey with New Horizons computer learning center, where i bagged an advanced diploma in web development. My everyday
-        code life can be followed up on <a href="https://github.com/menezy">github</a>
+        code life can be followed up on
+        <a href="https://github.com/menezy">github</a>
         I've been continously investing in self development and i'm ever ready to learn, build, ship and improve. I have a strong
         passion for technology and that's what has sustained me thus far no matter the challenges. I learn new Techonologies
-        at a very fast pace. I'm also a good team player with excellent commmunication skills. Every Software Developer needs industrial experience in order to hone their skills
-        to a world class level by working on real life projects. I'm enthusiastic about using Technology to solve real world
-        problems and i'm ever ready to be involved in building the next big thing if i'm given the opportunity.
+        at a very fast pace. I'm also a good team player with excellent commmunication skills. Every Software Developer needs
+        industrial experience in order to hone their skills to a world class level by working on real life projects. I'm
+        enthusiastic about using Technology to solve real world problems and i'm ever ready to be involved in building the
+        next big thing if i'm given the opportunity.
 
     </div>
 
@@ -157,7 +160,7 @@
                   <li>Vue.js</li>
                 </ul>
                 <p class="project-description ">A simple shopping list built with Vue.js and Bootstrap 4</p>
-                <a href="https://github.com/Menezy/Vue-shopping-list-app" target="_blank "
+                <a href="https://github.com/Menezy/Vue-shopping-list-app " target="_blank "
                   class="button button-primary ">View on Github</a>
               </div>
             </div>
@@ -176,7 +179,7 @@
                   <li>JavaScript</li>
                 </ul>
                 <p class="project-description ">A JavaScript calculator that performs simple arithmetic</p>
-                <a href="https://codepen.io/Menezy/full/pWmeGv/" target="_blank " class="button button-primary ">View Demo</a>
+                <a href="https://codepen.io/Menezy/full/pWmeGv/ " target="_blank " class="button button-primary ">View Demo</a>
               </div>
             </div>
           </div>
@@ -184,51 +187,7 @@
            </div>
     </div>
     <!-- Start sub-footer-->
-    <section id="sub-footer" class="cd-section ">
-      <div class="container ">
-        <div class="row">
-          <div class="eight columns offset-by-two columns "></div>
-          <div class="container">
-            <div class="row ">
-              <div class="eight columns offset-by-two columns ">
-                <p class="intro black " id="contactMe " style="color:black; ">Contact me.</p>
-                <p class="statement white "></p>
-              </div>
-            </div>
-            <div class="form-container">
-              <form accept-charset="UTF-8 " action="formProcess.php " method="POST ">
-                <div class="row ">
-                  <div class="six columns ">
-                    <input id="name " type="text " name="name " placeholder="Name * " required=" " class="u-full-width ">
-                  </div>
-                  <div class="six columns ">
-                    <input id="email " type="email " name="email " placeholder="Email address * " required=" " class="u-full-width ">
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="twelve columns ">
-                    <input id="phone " type="text " name="phone " placeholder="Phone number " class="u-full-width ">
-                  </div>
-                 
-                </div>
-                <div class="row ">
-                  <div class="twelve columns ">
-                    <textarea id="Message " name="message " placeholder="Tell me about your project...? " height="50em
-      " required="" class="u-full-width "></textarea>
-
-                    <button type="submit" id="submitbtn" class="btn">Submit</button>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-
-  </div>
-  </div>
-  </div>
-  </section>
+    
   <footer id="footer ">
     <div id="contact ">
       <div class="container ">
@@ -249,7 +208,7 @@
               <a href="https://github.com/menezy " target="_blank ">
                 <i class="fa fa-github "></i>
               </a>
-              <a href="https://instagram.com/menezy_official" target="_blank ">
+              <a href="https://instagram.com/menezy_official " target="_blank ">
                 <i class="fa fa-instagram "></i>
               </a>
             </div>
