@@ -57,7 +57,7 @@
           <h3 id="typed"></h3>
 
           <div class="page-scroll learn-more">
-            <a href="#me">Portfolio
+            <a href="#work">Portfolio
               <br>
               <i class="fa fa-chevron-down"></i>
             </a>
