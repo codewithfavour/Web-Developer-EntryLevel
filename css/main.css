@@ -246,7 +246,9 @@ textarea {
     -webkit-box-sizing: border-box;
     box-sizing: border-box
 }
-
+#ab{
+    font-size: 800px;
+}
 @media (min-width: 400px) {
     .container {
         width: 85%;
@@ -1382,7 +1384,7 @@ footer .social-links a:hover {
 .project-showcase .project-content .project-description {
     margin: 15px 0 28px 0;
     line-height: 1.6;
-    font-size: 1.4rem
+    font-size: 2rem
 }
 
 .project-showcase .project-content .project-tags {
@@ -1391,7 +1393,7 @@ footer .social-links a:hover {
     font-weight: 700;
     letter-spacing: 1px;
     opacity: 1;
-    text-transform: uppercase
+    text-transform: uppercase;
 }
 
 .project-showcase .project-content .project-tags:before {
@@ -1493,42 +1495,17 @@ footer .social-links a:hover {
     .project-testimonial blockquote {
         font-size: 2.1rem
     }
-}
-
-.project-testimonial-avatar {
-    display: inline-block;
-    border-radius: 50%;
-    background: #eeeeee;
-    height: 50px;
-    overflow: hidden;
-    width: 50px;
-    vertical-align: middle;
-    margin-bottom: 10px
-}
-
-.project-testimonial-avatar img {
-    width: 100%
-}
-
-@media screen and (min-width: 750px) {
-    .project-testimonial-avatar {
-        height: 70px;
-        width: 70px
+    .project-description{
+        font-size: 1.9rem;
     }
 }
+@media screen and (min-width: 360px) {
+   
+    .project-description{
+        font-size: 5500px;
 
-@media screen and (min-width: 550px) {
-    .project-testimonial-avatar {
-        margin-bottom: 0
-    }
 }
 
-.project-testimonial-name {
-    color: #93a4aa;
-    display: inline-block;
-    font-size: 1em;
-    margin-left: 0.6em
-}
 
 #wip {
     background:yellow;
@@ -1795,7 +1772,11 @@ a.logo img {
         width: 80%
     }
 }
-
+@media (min-width: 375px) {
+    .product-description {
+        font-size: 1.5rem;
+    }
+}
 @media (min-width: 1000px) {
      .form-container {
         margin: 0 auto;

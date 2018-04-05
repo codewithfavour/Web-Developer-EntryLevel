@@ -98,14 +98,14 @@
             <div class="expertise-block ">
               <i class="fa fa-map-o yellow "></i>
               <h4 class="title slate ">Strategy</h4>
-              <p class="summary ">I collaborate with clients and peers to transform their ideas into products and their passion into businesses with good user experiences.</p>
+              <p class="summary" style="font-size:2rem;">I collaborate with clients and peers to transform their ideas into products and their passion into businesses with good user experiences.</p>
             </div>
           </div>
           <div class="one-third column ">
             <div class="expertise-block ">
               <i class="fa fa-magic yellow "></i>
               <h4 class="title slate ">Design</h4>
-              <p class="summary ">I sketch interfaces focusing on content structure, intuitive UI patterns and simple interactions.
+              <p class="summary" style="font-size:2rem;">I sketch interfaces focusing on content structure, intuitive UI patterns and simple interactions.
                 I'm a minimalist who truly believes that less is more and that simplicity is the ultimate sophistication.</p>
             </div>
           </div>
@@ -113,7 +113,7 @@
             <div class="expertise-block ">
               <i class="fa fa-code yellow "></i>
               <h4 class="title slate ">Code</h4>
-              <p class="summary ">I design with HTML5, CSS3 and a touch of JavaScript. I love coding things from scratch, but I can work with
+              <p class="summary" style="font-size:2rem;">I design with HTML5, CSS3 and a touch of JavaScript. I love coding things from scratch, but I can work with
                 front-end frameworks like Bootstrap, materializecss and Vue.js</p>
             </div>
           </div>
