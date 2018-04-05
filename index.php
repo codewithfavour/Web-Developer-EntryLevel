@@ -52,7 +52,7 @@
             </span>
           </h4>
           <div class="page-scroll">
-            <a href="#sub-footer" class="button button-ghost animated fadeInLeft" style="background-color:red;">Hire Me</a>
+            <a href="http://goo.gl/e2d2yu" class="button button-ghost animated fadeInLeft" style="background-color:red;">Hire Me</a>
           </div>
           <h3 id="typed"></h3>
 
