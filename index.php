@@ -197,7 +197,7 @@
               <img src="images/mene.jpg ">
             </a>
             <p class="made-by-me ">Bright, 2018. Submission for Felix - Favcode Partnership</p>
-            <p>Find me on social media</p>
+            <p>Here are links to my social media profile</p>
             <div class="social-links ">
               <a href="https://twitter.com/codemagnate ">
                 <i class="fa fa-twitter "></i>
