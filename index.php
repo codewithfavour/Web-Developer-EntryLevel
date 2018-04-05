@@ -47,7 +47,8 @@
               <b>I'm learning Backend Web Dev</b>
               <b>...with FavCode54</b>
               <b>My mission for FavCode is to..</b>
-              <b>Develop & deploy enterprise products</b>
+              <b>Develop & deploy...</b> 
+              <b>..enterprise products</b>
             </span>
           </h4>
           <div class="page-scroll">
