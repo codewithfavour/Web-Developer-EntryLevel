@@ -121,16 +121,16 @@
       </div>
     </section>
     <!-- Start Work Section-->
-    <div id="work ">
-      <div class="container ">
-        <div class="row ">
+    <div id="work">
+      <div class="container">
+        <div class="row">
           <div class="twleve columns ">
             <p class="intro slate ">My Portfolio</p>
            
           </div>
         </div>
-        <section class="project-showcase ">
-          <div class="row ">
+        <section class="project-showcase">
+          <div class="row">
             <div class="six columns u-pull-right ">
               <img src="images/adonica.png " style="border-radius: 10px; " class="project-image ">
             </div>
@@ -166,7 +166,7 @@
             </div>
           </div>
         </section>
-        <section class="project-showcase ">
+        <section class="project-showcase">
           <div class="row ">
             <div class="six columns u-pull-right ">
               <img src="images/jscalc.png " class="project-image ">
