@@ -40,15 +40,14 @@
             <br>
             <span class="cd-words-wrapper">
               <b class="is-visible">Smart user interfaces.</b>
-              <b>landing pages.</b>
-              <b>corporate websites.</b>
-              <b>web applications.</b>
-              <b>And guess what!.</b>
-              <b>I'm learning Backend web Developmenet.</b>
+              <b>landing pages</b>
+              <b>corporate websites</b>
+              <b>web applications</b>
+              <b>And guess what!</b>
+              <b>I'm learning Backend Web Dev</b>
               <b>...with FavCode54</b>
-              <b>My mission for FavCode is to...</b>
-              <b>Develop and deploy enterprise products,</b>
-              <b>Using technology to solve real world problems.</b>
+              <b>My mission for FavCode is to..</b>
+              <b>Develop & deploy enterprise products</b>
             </span>
           </h4>
           <div class="page-scroll">
