@@ -39,7 +39,7 @@
             <span>Hey, I'm Bright. I design & build</span>
             <br>
             <span class="cd-words-wrapper">
-              <b class="is-visible">Smart user interfaces.</b>
+              <b class="is-visible">Smart user interfaces</b>
               <b>landing pages</b>
               <b>corporate websites</b>
               <b>web applications</b>
