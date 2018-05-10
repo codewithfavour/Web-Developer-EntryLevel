@@ -71,7 +71,7 @@
     </div>
     <div class="container" id="aboutMe">
       <p class="statement gunmetal" style="margin:0 auto;font-size:20px;text-align:left;">
-        I'm a frontend web developer with over One(1) year of experience in web development. I started my web design and development
+        I'm a frontend web developer with over two(2) years of experience in web development. I started my web design and development
         journey with New Horizons computer learning center, where i bagged an advanced diploma in web development.
         I've been investing an insane amount of hours in self development, ever ready to learn, build, ship and improve. I have a strong
         passion for technology and that's what has sustained me thus far no matter the challenges. I learn new Techonologies
