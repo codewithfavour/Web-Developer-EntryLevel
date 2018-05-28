@@ -47,8 +47,8 @@
               <b>Web applications</b>
             
               <b>My mission is to..</b>
-              <b>transform your ideas into beautiful products</b> 
-              <b>..one with good user experiences</b>
+              <b>transform your ideas</b> 
+              <b>..into beautiful products</b>
             </span>
           </h4>
           <div class="page-scroll">
